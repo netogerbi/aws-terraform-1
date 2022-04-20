@@ -1,0 +1,17 @@
+{
+  "ami": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ami-03871d08058c687f9"
+  },
+  "arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:ec2:us-east-1:411545821635:instance/i-03f1323741f2f2d0b"
+  },
+  "id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-03f1323741f2f2d0b"
+  }
+}
